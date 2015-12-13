@@ -1,0 +1,45 @@
+
+ERROR: Date: 07/12/2015 06:17:08pm, Unable to connect to the database server.exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'cpr_helpdesk'@'localhost' (using password: YES)' in C:\wamp\www\cprcourse\helpdesk\index.php:4
+Stack trace:
+#0 C:\wamp\www\cprcourse\helpdesk\index.php(4): PDO->__construct('mysql:host=loca...', 'cpr_helpdesk', 'cpr_helpdesk')
+#1 {main}
+ERROR: Date: 07/12/2015 06:17:39pm, Unable to connect to the database server.exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'cpr_helpdesk'@'localhost' (using password: YES)' in C:\wamp\www\cprcourse\helpdesk\index.php:4
+Stack trace:
+#0 C:\wamp\www\cprcourse\helpdesk\index.php(4): PDO->__construct('mysql:host=loca...', 'cpr_helpdesk', 'cpr_helpdesk')
+#1 {main}
+ERROR: Date: 07/12/2015 06:19:06pm, Unable to connect to the database server.exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'cpr_helpdesk'@'localhost' (using password: YES)' in C:\wamp\www\cprcourse\helpdesk\index.php:4
+Stack trace:
+#0 C:\wamp\www\cprcourse\helpdesk\index.php(4): PDO->__construct('mysql:host=loca...', 'cpr_helpdesk', 'cpr_helpdesk')
+#1 {main}
+ERROR: Date: 07/12/2015 06:20:34pm, Unable to connect to the database server.exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'cpr_helpdesk'@'localhost' (using password: YES)' in C:\wamp\www\cprcourse\helpdesk\index.php:4
+Stack trace:
+#0 C:\wamp\www\cprcourse\helpdesk\index.php(4): PDO->__construct('mysql:host=loca...', 'cpr_helpdesk', 'cpr_helpdesk')
+#1 {main}
+ERROR: Date: 08/12/2015 05:52:19pm, Unable to connect to the database server.exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'cpr_helpdesk'@'localhost' (using password: YES)' in C:\wamp\www\cprcourse\helpdesk\index.php:4
+Stack trace:
+#0 C:\wamp\www\cprcourse\helpdesk\index.php(4): PDO->__construct('mysql:host=loca...', 'cpr_helpdesk', 'cpr_helpdesk')
+#1 {main}
+ERROR: Date: 08/12/2015 05:52:26pm, Unable to connect to the database server.exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'cpr_helpdesk'@'localhost' (using password: YES)' in C:\wamp\www\cprcourse\helpdesk\index.php:4
+Stack trace:
+#0 C:\wamp\www\cprcourse\helpdesk\index.php(4): PDO->__construct('mysql:host=loca...', 'cpr_helpdesk', 'cpr_helpdesk')
+#1 {main}
+ERROR: Date: 08/12/2015 06:06:43pm, Unable to connect to the database server.exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'cpr_helpdesk'@'localhost' (using password: YES)' in C:\wamp\www\cprcourse\helpdesk\index.php:4
+Stack trace:
+#0 C:\wamp\www\cprcourse\helpdesk\index.php(4): PDO->__construct('mysql:host=loca...', 'cpr_helpdesk', 'cpr_helpdesk')
+#1 {main}
+ERROR: Date: 10/12/2015 03:07:12pm, Unable to connect to the database server.exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'cpr_helpdesk'@'localhost' (using password: YES)' in C:\wamp\www\cprcourse\helpdesk\index.php:4
+Stack trace:
+#0 C:\wamp\www\cprcourse\helpdesk\index.php(4): PDO->__construct('mysql:host=loca...', 'cpr_helpdesk', 'cpr_helpdesk')
+#1 {main}
+ERROR: Date: 10/12/2015 05:26:59pm, Unable to connect to the database server.exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'cpr_helpdesk'@'localhost' (using password: YES)' in C:\wamp\www\cprcourse\helpdesk\index.php:4
+Stack trace:
+#0 C:\wamp\www\cprcourse\helpdesk\index.php(4): PDO->__construct('mysql:host=loca...', 'cpr_helpdesk', 'cpr_helpdesk')
+#1 {main}
+ERROR: Date: 11/12/2015 06:52:55pm, Unable to connect to the database server.exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'cpr_helpdesk'@'localhost' (using password: YES)' in C:\wamp\www\cprcourse\helpdesk\index.php:4
+Stack trace:
+#0 C:\wamp\www\cprcourse\helpdesk\index.php(4): PDO->__construct('mysql:host=loca...', 'cpr_helpdesk', 'cpr_helpdesk')
+#1 {main}
+ERROR: Date: 11/12/2015 01:43:52pm, Unable to connect to the database server.exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'cpr_helpdesk'@'localhost' (using password: YES)' in /var/www/html/helpdesk/db_test.php:4
+Stack trace:
+#0 /var/www/html/helpdesk/db_test.php(4): PDO->__construct('mysql:host=loca...', 'cpr_helpdesk', 'cpr_helpdesk2')
+#1 {main}

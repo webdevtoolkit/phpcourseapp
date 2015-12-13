@@ -1,0 +1,56 @@
+body
+{
+   font-family: arial, helvetica, sans-serif; 
+   padding: 10px;
+}
+
+ul
+{
+    list-style: none;
+}
+
+.textAreaSection label
+{
+    float: left;
+}
+
+
+.form-group
+{
+    margin-bottom: 20px;
+}
+
+.status
+{
+   margin-bottom: 20px; 
+}
+
+
+fieldset
+{
+    margin-top: 20px;
+}
+
+.navbar-nav li
+{
+   display: inline-block;
+   margin-right: 10px;
+}
+
+.requests li
+{
+    margin-bottom: 10px;
+}
+
+.page-header
+{
+    margin-bottom: 20px;
+}
+
+.footer
+{
+    margin-top: 40px;
+    width: 100%;
+    text-align: center;
+    
+}
